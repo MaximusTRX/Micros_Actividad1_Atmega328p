@@ -1,0 +1,59 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Programs\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\Programs\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Programs\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/Programs\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\Debug\Actividad_n1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Actividad_n1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Actividad_n1.map</FILE>
+  <FILE>Actividad_n1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <econfig><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>41</LINE></econfig>
+  <const2><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>44</LINE></const2>
+  <statboot><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>49</LINE></statboot>
+  <addrrx><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>50</LINE></addrrx>
+  <RXBUF><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>51</LINE></RXBUF>
+  <actualstate><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>52</LINE></actualstate>
+  <tdebounce><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>53</LINE></tdebounce>
+  <tstate><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>54</LINE></tstate>
+  <tsecuencia><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>55</LINE></tsecuencia>
+  <start><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>227</LINE></start>
+  <TIMER1_COMPA><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>83</LINE></TIMER1_COMPA>
+  <out_TIMER1_COMPA><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>97</LINE></out_TIMER1_COMPA>
+  <ini_ports><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>106</LINE></ini_ports>
+  <ini_timer1><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>115</LINE></ini_timer1>
+  <ini_serie0><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>130</LINE></ini_serie0>
+  <do_10ms><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>134</LINE></do_10ms>
+  <RESET_100MS><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>143</LINE></RESET_100MS>
+  <BTN_BOUNCE><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>159</LINE></BTN_BOUNCE>
+  <BTN_DEBOUNCE><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>150</LINE></BTN_DEBOUNCE>
+  <BTN_CHANGE><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>164</LINE></BTN_CHANGE>
+  <do_10ms_OUT><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>168</LINE></do_10ms_OUT>
+  <do_BTNUP><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>172</LINE></do_BTNUP>
+  <RESET_BUCLE><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>180</LINE></RESET_BUCLE>
+  <do_BTNUP_OUT><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>184</LINE></do_BTNUP_OUT>
+  <do_SECUENCIA><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>188</LINE></do_SECUENCIA>
+  <IDLE><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>201</LINE></IDLE>
+  <MODO1><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>212</LINE></MODO1>
+  <MODO2><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>214</LINE></MODO2>
+  <do_SECUENCIA_OUT><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>222</LINE></do_SECUENCIA_OUT>
+  <do_LED><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>216</LINE></do_LED>
+  <loop><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>240</LINE></loop>
+  <BTN_RISING><FILE>D:\Facultad\Practicas_Micro\Practicas\Atmel Studio\7.0\Actividad_n1\Actividad_n1\main.asm</FILE><LINE>259</LINE></BTN_RISING>
+ </LABELS>
+</ASSEMBLER_INFO>
